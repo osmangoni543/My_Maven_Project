@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-08T21:08:03 EDT" name="Suite" finished-at="2023-09-08T21:08:03 EDT" duration-ms="88">
+    <groups>
+    </groups>
+    <test started-at="2023-09-08T21:08:03 EDT" name="Test" finished-at="2023-09-08T21:08:03 EDT" duration-ms="88">
+      <class name="com.automation.TestNG.day7.Product">
+        <test-method signature="verifyValidProduct()[pri:0, instance:com.automation.TestNG.day7.Product@78e4deb0]" started-at="2023-09-08T21:08:03 EDT" name="verifyValidProduct" finished-at="2023-09-08T21:08:03 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidProduct -->
+        <test-method signature="verifyInvalidProduct()[pri:0, instance:com.automation.TestNG.day7.Product@78e4deb0]" started-at="2023-09-08T21:08:03 EDT" name="verifyInvalidProduct" finished-at="2023-09-08T21:08:03 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidProduct -->
+      </class> <!-- com.automation.TestNG.day7.Product -->
+      <class name="com.automation.TestNG.day7.Login">
+        <test-method signature="verifyValidLogin()[pri:0, instance:com.automation.TestNG.day7.Login@2e385cce]" started-at="2023-09-08T21:08:03 EDT" name="verifyValidLogin" finished-at="2023-09-08T21:08:03 EDT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLogin -->
+        <test-method signature="verifyInvalidLogin()[pri:0, instance:com.automation.TestNG.day7.Login@2e385cce]" started-at="2023-09-08T21:08:03 EDT" name="verifyInvalidLogin" finished-at="2023-09-08T21:08:03 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLogin -->
+      </class> <!-- com.automation.TestNG.day7.Login -->
+      <class name="com.automation.TestNG.day7.Register">
+        <test-method signature="verifyValidRegister()[pri:0, instance:com.automation.TestNG.day7.Register@6e9175d8]" started-at="2023-09-08T21:08:03 EDT" name="verifyValidRegister" finished-at="2023-09-08T21:08:03 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidRegister -->
+        <test-method signature="verifyInvalidRegister()[pri:0, instance:com.automation.TestNG.day7.Register@6e9175d8]" started-at="2023-09-08T21:08:03 EDT" name="verifyInvalidRegister" finished-at="2023-09-08T21:08:03 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidRegister -->
+      </class> <!-- com.automation.TestNG.day7.Register -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
