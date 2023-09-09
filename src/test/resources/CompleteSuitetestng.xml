@@ -3,9 +3,9 @@
 <suite name="Suite">
    <suite-files>
      
-     <suite-file path="Suite1testng.xml"></suite-file>
-     <suite-file path="Suite2testng.xml"></suite-file>
-     <suite-file path="Suite3testng.xml"></suite-file>
+     <suite-file path="src\test\resources\Suite1testng.xml"></suite-file>
+     <suite-file path="src\test\resources\Suite2testng.xml"></suite-file>
+     <suite-file path="src\test\resources\Suite3testng.xml"></suite-file>
      
    </suite-files>
       

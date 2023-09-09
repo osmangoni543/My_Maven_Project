@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.automation.TestNG.day6.ApplyingDataDriven_this_super_Keywords.SearchProduct_Test">
+      <class name="com.automation.TestNG.Rerun_Failed_TestCases.Rediff_Login_Test">
         <methods>
-          <include name="setup"/>
-          <include name="teardown"/>
-          <include name="verifySearchWithValidProduct"/>
+          <include name="rediffLoginTest"/>
+          <include name="rediffLoginTest2"/>
+          <include name="rediffLoginTest1"/>
         </methods>
-      </class> <!-- com.automation.TestNG.day6.ApplyingDataDriven_this_super_Keywords.SearchProduct_Test -->
+      </class> <!-- com.automation.TestNG.Rerun_Failed_TestCases.Rediff_Login_Test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
